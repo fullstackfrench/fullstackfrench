@@ -1,4 +1,4 @@
-Currently a Web Developer at Resilient Coders with a background in Communications, I am inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
+Currently a Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
 
 Check out my [company](https://fullstackfrench.netlify.app/) and connect with me on [X](https://x.com/fullstackfrench)!
 
