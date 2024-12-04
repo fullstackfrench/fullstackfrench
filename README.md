@@ -1,6 +1,7 @@
-Currently a Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
+Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
 
-Check out my [company](https://fullstackfrench.netlify.app/) and connect with me on [X](https://x.com/fullstackfrench)!
+
+Check out my [portfolio](https://fullstackfrench.netlify.app/) and connect with me on [X](https://x.com/fullstackfrench)!
 
 <!--
 **fullstackfrench/fullstackfrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
