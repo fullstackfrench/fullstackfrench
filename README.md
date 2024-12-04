@@ -1,5 +1,7 @@
 ![cover copy](https://github.com/user-attachments/assets/d13de5bf-570a-4ea6-81e5-59c5917d9d29)
 
+#Hi, I'm French!🙋🏾‍♀️
+
 Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
 
 
