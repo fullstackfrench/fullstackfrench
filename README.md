@@ -1,4 +1,4 @@
-![cover](https://github.com/user-attachments/assets/8f8bd858-0290-43eb-b255-169640f3279d)
+![cover copy](https://github.com/user-attachments/assets/3879d1a6-e63a-4677-ac3b-11fda0dc5b1c)
 Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
 
 
