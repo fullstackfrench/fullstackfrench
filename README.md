@@ -1,4 +1,6 @@
+![cover](https://github.com/user-attachments/assets/8f8bd858-0290-43eb-b255-169640f3279d)
 Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
+
 
 
 Check out my [portfolio](https://fullstackfrench.netlify.app/) and connect with me on [X](https://x.com/fullstackfrench)!
