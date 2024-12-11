@@ -2,7 +2,7 @@
 
 # Hi, I'm French!🙋🏾‍♀️
 
-Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine.
+Software Engineer at Resilient Coders who is inspired by the boundless nature of technology as a means to drive the culture forward in ways we've yet to imagine. 
 
 
 
